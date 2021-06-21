@@ -13,7 +13,7 @@
 <br>
 <br>
 <h2> Installation </h2>
-https://github.com/ahmadkane93/portfoliohw2
+https://github.com/ahmadkane93/OSU-bootcamp-updated-portfolio
 <br>
 <br>
 <br>
