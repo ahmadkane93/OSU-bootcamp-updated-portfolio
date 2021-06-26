@@ -21,18 +21,7 @@ https://github.com/ahmadkane93/OSU-bootcamp-updated-portfolio
 Scroll throught the page.
 Click onto each image in container to see the hyperlink attached.
 <br>
-<br>
-<img src="./Assets/images/github.jpg"/>
-<img src=./Assets/images/interests.jpg/>
-<img src=./Assets/images/facebook.jpg/>
-<img src=./Assets/images/linkedin.jpg/>
-<br>
-<br>
-<br>
-<h2>Credit</h2>
-W3 Schools & 
-MOZ Docs
-<br>
+
 <br>
 <br>
 <h2>License</h2>
